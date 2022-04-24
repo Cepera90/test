@@ -9,6 +9,7 @@ test_3.ipynb - decision:
 
 Try to add features MidOverSpeed and HiOverSpeed.
 Add feature duration of track.
+
 Use DecisionTreeClassifier model (Execution time 11s, score 0.839),
 BaggingClassifier (Execution time 6m (n_estimators=56), score 0.905),
 RandomForestClassifier (n_estimators=37, score 0.899),
