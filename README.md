@@ -6,6 +6,7 @@ test_3.ipynb - decision:
 
 3) В richtracks для каждого трека есть поле TrackOrigin, которое описывает кем была произведена поездка: владельцем смартфона или нет. 
 Задание: постройте модель, предсказывающую на основании данных из входящих точек, была ли поездка пассажирской или нет.
+
 Try to add features MidOverSpeed and HiOverSpeed.
 Add feature duration of track.
 Use DecisionTreeClassifier model (Execution time 11s, score 0.839),
